@@ -2,16 +2,16 @@
  document.addEventListener("DOMContentLoaded", function () {
   const imagePairs = [
     {
-      product: "./assets/Images/product-offer.png",
-      main: "./assets/Images/offer-image.png"
+      product: "./assets/Images/product-offer.webp",
+      main: "./assets/Images/offer-image.webp"
     },
     {
-      product: "./assets/Images/product-offer2.jpg",
-      main: "./assets/Images/image-offer2.jpg"
+      product: "./assets/Images/product-offer2.webp",
+      main: "./assets/Images/image-offer2.webp"
     },
     {
-      product: "./assets/Images/product-offer3.jpg",
-      main: "./assets/Images/image-offer3.jpg"
+      product: "./assets/Images/product-offer3.webp",
+      main: "./assets/Images/image-offer3.webp"
     },
   ];
 
